@@ -1,0 +1,28 @@
+.container {
+  margin: auto;
+  display:-webkit-inline-flex;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center ;
+}
+
+.clubes-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px; /* Adicione um espaçamento entre os atletas e os clubes */
+  margin:10px
+}
+
+.cards{
+  margin: 40px;
+  list-style: none;
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.foto-tecnico {
+  margin: 50px 0px 0px 0px;
+
+}
+
